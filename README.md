@@ -17,4 +17,4 @@
         - transformers
         - hugging-face-hub
     - The code relies on external google colab for getting the subtitles of the video, as it is faster than running it locally (at least in my PC)
-        
+    - Sensitive files and the files where the data is where all ignored, you can see the full structure of the project by looking at our .gitignore      
