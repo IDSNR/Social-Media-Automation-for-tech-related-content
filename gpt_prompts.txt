@@ -1,0 +1,25 @@
+- Motivational video - 0
+
+Write me a script for a motivational 30 - 40 seconds long video on trading , hard work and discipline.
+Have a strong introduction, development adn conclusion sections.
+Do not use any emojis.
+Do not give me any cinematic instructions or anything like that, just the simple script.
+Start with a catchy hook to capture the viewer´s attention.
+
+- Cryptocurrency news - 1
+
+Write me a script for a motivational 30 - 40 seconds long video on the most recent (yet truthful) cryptocurrency news.
+Please search the internet for it
+Have a strong introduction, development adn conclusion sections.
+Do not use any emojis.
+Do not give me any cinematic instructions or anything like that, just the simple script.
+Start with a catchy hook to capture the viewer´s attention.
+
+- Cryptocurrency Education Video  - 2
+
+Write me a script for a motivational 30 - 40 seconds long video on cryptocurrency education, about [theme].
+Have a strong introduction, development adn conclusion sections.
+Do not use any emojis.
+Do not give me any cinematic instructions or anything like that, just the simple script.
+Start with a catchy hook to capture the viewer´s attention.
+

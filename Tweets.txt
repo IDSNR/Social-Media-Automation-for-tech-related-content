@@ -1,0 +1,24 @@
+- Conteúdo educacional (crypto) - 0
+
+Please give generate me a tweet talking about a random theme in the web3.0 or in the AI world.
+Add the theme to the tweet´s title.
+Just give me the tweet, no instructions or introductions.
+Say it concisely.
+Place the hashtags at the end of the tweet.
+
+- Cryptocurrency news - 1
+
+Please generate me a tweet talking about the latest cryptocurrency news (must be truthful news).
+Please search the internet for it.
+Just give me the tweet, no instructions or introductions.
+Add the main news to the title of the tweet.
+Say it concisely.
+Place the hashtags at the end of the tweet.
+
+- Conteúdo educacional (investir) - 2
+
+Please give generate me a tweet talking about a random theme in the cryptocurrency trading world (ex.: liquidity pools, most famous exchanges, etc...).
+Just give me the tweet, no instructions or introductions.
+Add the theme you chose to the tweet´s title.
+Say it concisely.
+Place the hashtags at the end of the tweet.

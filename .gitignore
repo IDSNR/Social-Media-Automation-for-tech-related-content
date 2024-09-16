@@ -1,0 +1,10 @@
+venv/
+data.json
+new_acc.json
+__pycache__/
+.idea/
+Data.py
+Audios/
+Videos/
+Posts/
+Fonts/
